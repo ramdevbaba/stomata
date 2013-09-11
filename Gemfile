@@ -24,6 +24,11 @@ end
 gem 'jquery-rails'
 # gem 'therubyrhino'
 
+gem 'couchrest'
+gem 'couchrest_extended_document'
+gem 'mongoid'
+gem 'resque'
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 

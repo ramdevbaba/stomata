@@ -19,7 +19,7 @@ group :assets do
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
   # gem 'therubyracer', :platforms => :ruby
 
-  gem 'uglifier', '>= 1.0.3'
+  # gem 'uglifier', '>= 1.0.3'
 end
 
 gem 'jquery-rails'
@@ -27,6 +27,14 @@ gem 'capybara'
 gem 'capybara-screenshot'
 
 # gem 'therubyrhino'
+
+gem 'couchrest'
+gem 'couchrest_extended_document'
+gem 'devise'
+gem 'mongoid'
+# gem 'resque'
+gem 'jasmine'
+gem 'paperclip'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'

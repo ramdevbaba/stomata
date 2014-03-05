@@ -29,13 +29,13 @@ gem 'capybara-screenshot'
 
 # gem 'therubyrhino'
 
-gem 'couchrest'
-gem 'couchrest_extended_document'
-gem 'devise'
-gem 'mongoid'
+# gem 'couchrest'
+# gem 'couchrest_extended_document'
+# gem 'devise'
+# gem 'mongoid'
 # gem 'resque'
-gem 'jasmine'
-gem 'paperclip'
+# gem 'jasmine'
+# gem 'paperclip'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
